@@ -1,1 +1,2 @@
-# GYM-app-for-Body-Fitness
+# RiseUp-GymApp
+ An ultimate gym training app for pros.
